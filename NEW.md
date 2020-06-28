@@ -12,12 +12,12 @@ YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 ## **Criação das Novas Vídeo Aulas para o Curso de CCNA v7 200-301:**
 
 ## **ETAPA-00: Aulas já Publicadas no YouTUBE e no Github:**
-001 Configuração Base dos Switches 2960<br>
-002 Configuração das Linhas Virtuais VTY nos Switches 2960<br>
-003 Configuração do Gateway e SVI nos Switches 2960<br>
-004 Configuração do SSH Server nos Switches 2960<br>
-005 Configuração Base do Router 1941<br>
-006 Configuração da Interface Router 1941<br>
+[001 Configuração Base dos Switches 2960](https://www.youtube.com/watch?v=Zj04S_UOYzw&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=2)<br>
+[002 Configuração das Linhas Virtuais VTY nos Switches 2960](https://www.youtube.com/watch?v=i3vWPr0xvDU&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=3)<br>
+[003 Configuração do Gateway e SVI nos Switches 2960](https://www.youtube.com/watch?v=cOZDezhef3o&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=4)<br>
+[004 Configuração do SSH Server nos Switches 2960](https://www.youtube.com/watch?v=uP9DdcipNvg&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=5)<br>
+[005 Configuração Base do Router 1941](https://www.youtube.com/watch?v=hNlAzBushZ0&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=6&pbjreload=101)<br>
+[006 Configuração da Interface Router 1941](https://www.youtube.com/watch?v=WfvVUL-WQVs&list=PLozhsZB1lLUMWiSiVrcihCtfG1WptrRN5&index=7)<br>
 007 Backup das Configurações e do Cisco IOS do Router e Switches<br>
 008 Atualização do Cisco IOS nos Switches 2960<br>
 009 Acessando o Modo ROMMON do Router 1941<br>
